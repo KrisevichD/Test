@@ -1,0 +1,13 @@
+﻿body {
+    margin:0;
+}
+.header{
+    text-align:center;
+}
+.products {
+    text-align: center;
+}
+.products_item{
+    display:block;
+    background-color: #b5d8e9;
+}
