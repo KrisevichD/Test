@@ -1,0 +1,13 @@
+{
+  "company": "Kolya's friends",
+  "products": [
+    {
+      "name": "Iphone X",
+      "price": "$10"
+    },
+    {
+      "name": "Iphone DeniX",
+      "price": "$20"
+    }
+  ]
+}
