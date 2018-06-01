@@ -3,7 +3,7 @@
   "products": [
     {
       "name": "Iphone X",
-      "price": "$10"
+      "price": "$5"
     },
     {
       "name": "Iphone KolyX",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Iphone LoX",
-      "price": "$10"
+      "price": "$105"
     },
     {
       "name": "Iphone DeniX",
